@@ -5,7 +5,7 @@ from game import chessGame, to_uci
 import time
 
 # set hostname (public IP can be found with 'what's my IP website')
-HOST = ''  # server's local IP
+HOST = '192.168.2.249'  # server's local IP
 PORT1 = 5555
 PORT0 = 5556
 ACTIVE_CONN = 0
